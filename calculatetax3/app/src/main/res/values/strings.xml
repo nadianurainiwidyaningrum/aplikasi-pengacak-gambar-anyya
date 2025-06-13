@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">calculatetax</string>
-    <string name="app_name">Tax Calculator</string>
-    <string name="calculate_tax">Hitung Pajak</string>
-    <string name="bill_amount">Jumlah Tagihan</string>
-    <string name="tax_percentage">Persentase Pajak (%)</string>
-    <string name="round_up_tax">Bulatkan ke atas</string>
-    <string name="tax_amount">Jumlah Pajak: %1$s</string>
-</resources>
